@@ -1,0 +1,8 @@
+CS50 Final Project
+
+VISION BRIGHT
+ - PURPOSE:
+ - INSPIRATION: 
+ - USAGE:
+ - CODE:
+ 
